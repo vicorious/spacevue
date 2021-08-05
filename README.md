@@ -20,11 +20,9 @@ App based in movie features.
 
 For install. You need write follow commands
 
-> git clone https://github.com/vicorious/spacevue.git
-> enter to folder "spacevu"
-> in the root directory, when you can see the file called "package.json" you should write "npm install"
-> When all process finished. you need write "npm run dev" this command open the tunnel for the 3000 port.
-> http://localhost:3000 and Enjoy
+> You need Git and Install NODE.JS for the deploy
+
+
 
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
@@ -41,6 +39,13 @@ space44 project uses a number of open source projects to work properly:
 ## Installation
 
 space44 requires [Node.js](https://nodejs.org/) v10+ to run.
+
+.
+- git clone https://github.com/vicorious/spacevue.git
+- enter to folder "spacevu"
+- in the root directory, when you can see the file called "package.json" you should write "npm install"
+- When all process finished. you need write "npm run dev" this command open the tunnel for the 3000 port.
+- http://localhost:3000 and Enjoy
 
 Install the dependencies and devDependencies and start the server.
 
@@ -66,6 +71,8 @@ Instructions on how to use them in your own application are linked below.
 | ------ | ------ |
 | GitHub | [PlGh] |
 | Google Maps | [https://developers.google.com/maps/gmp-get-started][PlGd] |
+
+- You need API_KEY for Execute MAPS correctly. Look it this. [https://developers.google.com/maps?hl=es-419][PlGd]
 
 
 ## ScreenShoots
