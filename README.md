@@ -67,8 +67,18 @@ Instructions on how to use them in your own application are linked below.
 | Google Maps | [https://developers.google.com/maps/gmp-get-started][PlGd] |
 
 
-ScreenShoots
+## ScreenShoots
 
+## Primera
 ![Alt text](./raw/space1.PNG?raw=true "Title")
+
+## Segunda
+![Alt text](./raw/space2.PNG?raw=true "Title")
+
+## Tercera
+![Alt text](./raw/space3.PNG?raw=true "Title")
+
+## Cuarta
+![Alt text](./raw/space4.PNG?raw=true "Title")
  
 THANK YOU SPACE44
