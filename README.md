@@ -3,7 +3,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]
 
 App based in movie features.
 
@@ -17,7 +17,7 @@ App based in movie features.
 - Maps
 
 
-Para instalar es necesario los siguientes comandos
+For install. You need write follow commands
 
 > git clone https://github.com/vicorious/spacevue.git
 > enter to folder "spacevu"
@@ -31,7 +31,7 @@ watch the results in the right.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+space44 project uses a number of open source projects to work properly:
 
 - [Vue.JS 3 version] - HTML enhanced for web apps!
 - [node.js] - runtime
@@ -39,7 +39,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+space44 requires [Node.js](https://nodejs.org/) v10+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
@@ -58,7 +58,7 @@ NODE_ENV=production node app
 
 ## Plugins
 
-Dillinger is currently extended with the following plugins.
+space44 is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
